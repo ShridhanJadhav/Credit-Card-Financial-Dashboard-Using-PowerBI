@@ -7,20 +7,21 @@ In the pursuit of enhancing oversight over credit card operations, the objective
 - To prepare and clean the data
 - Dashboard: Credit Card Transaction 
   - Key Performance Indicators (KPIs): Total Revenue, Total Interest, Total_Trans_Amt, Total_Trans_Vol
-  - Bar Chart: Revenue by Exp Type, Revenue by Education_Level, Revenue by Customer_Job, Revenue by Use Chip, Customer_Acq_Cost by Card_Category
+  - Bar Chart: Total revolving Balance by customer job, Transaction by Education_Level, Transaction by Customer_Job, Transaction by Use Chip, Customer_Acq_Cost by Card_Category
   - Line Chart: Revenue and Total_Trans_Vol by Qtr
   - Pie Chart: Total_Trans_Amt by Card_Category, Total_Trans_Vol by Card_Category
-  - Table: Card_Category and Revenue, Interest_Earned, Annual_Fees
+  - Table: State_wise and Card_Category wise Revenue, Interest_Earned,   
+    Annual_Fees, Total_Transaction , Total_Revolving_Balance
 - Dashboard: Credit Card Customer
-  - Key Performance Indicators (KPIs): Total Revenue, Total Interest, Total Income, Avg Customer Satisfaction
+  - Key Performance Indicators (KPIs): Total Revenue, Total Interest, Total Income, Total_customers(clients)
   - Bar Chart: Revenue by Income Group, Revenue by Dependent_Count, Revenue by Marital_Status, Revenue by Education_Level, Revenue by Top 5 States, Revenue by Age_Group
   - Pie Chart: Revenue by Card_Category
-  - Table: Customer_Job and Revenue, Total_Trans_Amt, Income
+  - Table: Customer_Job and Revenue, Total_Trans_Amt, Average_Income
   - Line Chart: Revenue vs Gender on Weekly basis
 
 ## Dashboard
-<img width="950" alt="Customer" src="https://github.com/ShridhanJadhav/Credit-Card-Financial-Dashboard-Using-PowerBI/blob/main/Credit%20Card%20Customer%20Report.png">
-<img width="950" alt="Transaction" src="https://github.com/ShridhanJadhav/Credit-Card-Financial-Dashboard-Using-PowerBI/blob/main/Credit%20Card%20Transaction%20Report.png">
+<img width="950" alt="Customer" src="https://github.com/ShridhanJadhav/Credit-Card-Financial-Dashboard-Using-PowerBI/blob/main/Credit_Card_Customer_Report.png">
+<img width="950" alt="Transaction" src="https://github.com/ShridhanJadhav/Credit-Card-Financial-Dashboard-Using-PowerBI/blob/main/Credit_Card_Transaction_Report.png">
 
 ## Key Insights - Week 53 (31st Dec)
 - WoW change:
