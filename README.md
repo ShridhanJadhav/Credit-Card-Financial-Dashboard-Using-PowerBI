@@ -26,12 +26,17 @@ In the pursuit of enhancing oversight over credit card operations, the objective
 ## Key Insights - Week 53 (31st Dec)
 - WoW change:
   - Revenue Growth: Revenue surged by an impressive 28.8%, indicating robust financial performance and increased profitability.
-  - Transaction Volume Increase: Total transaction amt and overall transaction count experienced significant growth, rising by 35% and 3.4% respectively. This uptrend suggests heightened consumer activity and engagement with credit card services.
-  - Customer Expansion: The customer base expanded by 12.8%, indicating successful acquisition and retention strategies. This growth in clientele underscores the appeal and effectiveness of the credit card offerings.
+    
 - Year-to-Date Performance:
-  - Revenue Breakdown: Overall revenue reached 7 million, with notable contributions from male customers totaling 31 million, surpassing that of female customers at 26 million. This gender-based revenue distribution highlights potential areas for targeted marketing and service enhancement.
+  - Revenue Breakdown: Overall revenue reached 57 million, with notable contributions from male customers totaling 31 million, surpassing that of female customers at 26 million. This gender-based revenue distribution highlights potential areas for targeted marketing and service enhancement.
+  - Total Interest earned is 8 million.
+  - The majority of revenue, 94%, is generated from Blue and Silver credit cards, highlighting their pivotal role in driving financial success.
+  - Quarterly revenue trends consistently show higher contributions from males compared to females, with the majority falling within the 40-50 age,signaling a notable demographic pattern.
   - Transaction Insights: Blue and Silver credit cards emerged as frontrunners, accounting for a substantial 93% of overall transactions. This insight underscores the popularity and utilization of these card types among customers.
-  - Geographical Contribution: States such as TX, NY, and CA collectively contributed 68% to overall transaction volumes, indicating regional variations in credit card usage patterns. This geographical insight could inform targeted marketing campaigns and localized service strategies.
-  - Activation and Delinquency Rates: The activation rate stood at 57.5%, suggesting effective onboarding processes. However, the delinquent rate registered at 6.06%, indicating a potential area for risk mitigation and customer support initiatives.
+  - Geographical Contribution: States such as TX, NY, and CA collectively contributed 68% to overall transactions amount, indicating regional variations in credit card usage patterns. This geographical insight could inform targeted marketing campaigns and localized service strategies.
+  - Revolving Balance : Self-employed individuals, business owners, and those in white-collar professions collectively hold a revolving balance of 6 million, reflecting considerable ongoing credit card debt among customers.
+
+
+
     
     
